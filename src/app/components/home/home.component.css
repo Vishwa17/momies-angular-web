@@ -61,7 +61,7 @@ h6 {
 p {
   margin: 0;
   padding: 0;
-  font-size: 14px;
+  font-size: 15px;
   letter-spacing: 1px;
   line-height: 1.9;
   color: #51585f;
@@ -131,7 +131,7 @@ ol {
 /* Giving a background-color to the nav container. */
 nav {
   margin: 0;
-  padding: 0;
+  padding-right: 15px;
 }
 
 #logo a {
@@ -259,6 +259,7 @@ li > a:only-child:after {
     width: 100%;
     text-align: center;
     float: none;
+    margin-left: 10px;
   }
 
   nav {
@@ -530,7 +531,7 @@ li > a:only-child:after {
 }
 
 p.text-sty-banner {
-  font-size: 16px;
+  font-size: 15px;
   color: #51585f;
   max-width: 800px;
   margin: 20px 0;
@@ -540,10 +541,12 @@ h3.w3ls_pvt-title {
   font-size: 2.4rem;
   font-weight: 600;
   color: #202428;
+  margin-top: 2vh;
 }
 
 h3.w3ls_pvt-title span {
   color: #f06292;
+  margin-top: 2vh;
 }
 
 .w3ls_banner_txt h5 {
@@ -1244,6 +1247,7 @@ button.btn-cont-w3 {
 @media (max-width: 1366px) {
   h3.w3ls_pvt-title {
     font-size: 3.5rem;
+    margin-top: 2vh;
   }
 }
 
@@ -1270,6 +1274,7 @@ button.btn-cont-w3 {
 
   h3.w3ls_pvt-title {
     font-size: 3rem;
+    margin-top: 2vh;
   }
 
   p.text-sty-banner {
@@ -1334,10 +1339,11 @@ button.btn-cont-w3 {
 
   h3.w3ls_pvt-title {
     font-size: 2.5rem;
+    margin-top: 2vh;
   }
 
   p.text-sty-banner {
-    font-size: 14px;
+    font-size: 15px;
   }
 
   .w3ls_banner_txt {
@@ -1396,6 +1402,7 @@ button.btn-cont-w3 {
 
   .about-right-faq h3 {
     font-size: 32px;
+    margin-top: 2vh;
   }
 
   ul.w3l-right-book li {
@@ -1404,7 +1411,7 @@ button.btn-cont-w3 {
 
   .button-style {
     padding: 13px 24px;
-    font-size: 13px;
+    font-size: 14px;
   }
 
   .services-icon,
@@ -1441,7 +1448,7 @@ button.btn-cont-w3 {
   }
 
   p.sub-tittle {
-    font-size: 14px;
+    font-size: 15px;
   }
 
   form.subscribe-wthree input[type="email"] {
@@ -1488,6 +1495,7 @@ button.btn-cont-w3 {
 
   h3.w3ls_pvt-title {
     font-size: 2.3rem;
+    margin-top: 2vh;
   }
 
   img.shape-w3-one {
@@ -1501,7 +1509,7 @@ button.btn-cont-w3 {
 
 @media (max-width: 440px) {
   p.sub-tittle {
-    font-size: 13px;
+    font-size: 14px;
   }
 
   h3.tittle,
@@ -1538,6 +1546,7 @@ button.btn-cont-w3 {
 
   .about-right-faq h3 {
     font-size: 30px;
+    margin-top: 4vh;
   }
 
   .about-grid-main {
@@ -1568,6 +1577,7 @@ button.btn-cont-w3 {
 
   .about-right-faq h3 {
     font-size: 28px;
+    margin-top: 5vh;
   }
 
   .about-right-faq h6 {
@@ -1576,10 +1586,11 @@ button.btn-cont-w3 {
 
   h3.w3ls_pvt-title {
     font-size: 2.1rem;
+    margin-top: 4vh;
   }
 
   p.text-sty-banner {
-    font-size: 13px;
+    font-size: 15px;
   }
 
   .search-momiesfood input[type="search"] {
@@ -1624,6 +1635,7 @@ button.btn-cont-w3 {
 
   .about-right-faq h3 {
     font-size: 26px;
+    margin-top: 6vh;
   }
 
   ul.w3l-right-book li {
@@ -1632,7 +1644,7 @@ button.btn-cont-w3 {
 
   .button-style {
     padding: 13px 20px;
-    font-size: 12px;
+    font-size: 14px;
   }
 
   .prices-top {
