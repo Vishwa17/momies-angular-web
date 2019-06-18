@@ -127,10 +127,6 @@ ol {
   display: none;
 }
 .container-fluid {
-  position: fixed;
-  background: #fff;
-  padding: 0px;
-  z-index: 1;
 }
 /* Giving a background-color to the nav container. */
 nav {
@@ -638,13 +634,13 @@ img.shape-w3-six {
 /* //banner */
 
 /* what we do */
-.about-grid-main img {
+/* .about-grid-main img {
   -webkit-border-radius: 50%;
   -o-border-radius: 50%;
   -moz-border-radius: 50%;
   -ms-border-radius: 50%;
   border-radius: 50%;
-}
+} */
 
 h3.title,
 h2.title {
@@ -751,7 +747,7 @@ ul.w3l-right-book li {
 
 h3.tittle,
 h2.tittle {
-  color: #111;
+  color: #fff;
   font-size: 40px;
 }
 
@@ -759,6 +755,7 @@ p.sub-tittle {
   max-width: 800px;
   margin: 0 auto;
   font-size: 16px;
+  color: #fff;
 }
 .benefits {
   line-height: 3rem;
@@ -813,8 +810,11 @@ form.subscribe-wthree input[type="email"] {
   padding: 14px 20px;
 }
 
-form.subscribe-wthree button {
-  background: #f06292;
+.join-now {
+  background: #05b993;
+  float: right;
+  position: relative;
+  top: -6px;
   letter-spacing: 1px;
   color: #fff;
   padding: 14px 20px;
@@ -1341,7 +1341,7 @@ button.btn-cont-w3 {
   }
 
   .w3ls_banner_txt {
-    padding-top: 3vw;
+    padding-top: 6vw;
   }
 
   #logo a {

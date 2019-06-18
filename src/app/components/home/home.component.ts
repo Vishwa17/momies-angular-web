@@ -29,4 +29,7 @@ export class HomeComponent implements OnInit {
         .scrollIntoView({ behavior: "smooth" });
     }
   }
+  submit() {
+    window.open("https://forms.gle/Sa5hWP7eo7RqLMoq6", "_blank");
+  }
 }
