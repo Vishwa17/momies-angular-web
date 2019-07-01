@@ -537,14 +537,14 @@ p.text-sty-banner {
   margin: 20px 0;
 }
 
-h3.w3ls_pvt-title {
+h1.w3ls_pvt-title {
   font-size: 2.4rem;
   font-weight: 600;
   color: #202428;
   margin-top: 2vh;
 }
 
-h3.w3ls_pvt-title span {
+h1.w3ls_pvt-title span {
   color: #f06292;
   margin-top: 2vh;
 }
@@ -696,7 +696,7 @@ a.button-w3ls {
   font-size: 15px;
 }
 
-.about-right-faq h3 {
+.about-right-faq h1 {
   font-size: 34px;
   line-height: 1.4;
   font-weight: 600;
@@ -1390,7 +1390,7 @@ button.btn-cont-w3 {
     font-size: 14px;
   }
 
-  .about-right-faq h3 {
+  .about-right-faq h1 {
     font-size: 32px;
     margin-top: 2vh;
   }
